@@ -1,0 +1,60 @@
+ 
+# conditional statements
+
+# city=input("enter the place")
+
+# if(city=="chennai"):
+#    print("wlecome to chennai")
+
+
+
+# dress_price=(int(input("enter the price ")))
+# if(dress_price>350):
+#  print(" this is dranded shirt")
+# else:
+#   print("this undranded shirts")    
+
+# dress_shop=(int(input("type a numbers :")))
+# shirts=input("brand of shirts rate ranges (y/n)")
+
+# if(dress_shop > 350 and shirts == "y"):
+#     print("this brand shirts ")
+# elif(dress_shop <350 or shirts == "n"):
+#     print("this unbrand shirt ")
+# else:
+#    print("this all most damage shirts")   
+
+
+
+#    age = (int(input("enter the age :")))
+# has_license = input("do you have license (y/n)")
+
+# if(age > 18 and has_license == "y"):
+#     print("you can drive")
+# elif(age <18 and has_license == "n"):
+#    print(" you can not drive")
+# else:
+#    print(" you can under age. boy so you cannot drive ")
+
+
+# my_fav_shirts=(int(input("type here num :")))
+# unfav_= input("check the branded shirts (t/f)")
+ 
+# if(my_fav_shirts > 500 and unfav == "y"):
+#       print("high range shirts")
+# elif(my_fav_shirts < 500 or unfav == "n"):
+#      print("low price shirts")
+# else:
+#     ("middle of brands shirts")
+
+
+# name= input('enter name :')
+# age= (int(input("enter age ")))
+
+
+# if(age > 13 ):
+#    print(" child ticket")
+# elif(< 13 ):
+#   print(" adult ticket")
+# else(>60):
+#    print("senior citizen tickets")
